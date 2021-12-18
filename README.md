@@ -26,5 +26,5 @@ cd hulkddos
 ```
 python2 hulkV2.py
 ```
-***Or***
+***Or
 
