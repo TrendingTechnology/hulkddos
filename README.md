@@ -24,7 +24,21 @@
 cd hulkddos
 ```
 ```
-python2 hulkV2.py
+python2 hulkV2.py http://mydomain.com
 ```
-***Or
+***Or***
+```
+python3 hulk.py 
+```
+### Report a Problem? Pm me on
+<b>• [Whatsapp](https://bit.ly/3GQHTp2)</b>
+<br>
+<b>• [Telegram](https://bit.ly/3J04GRd)</b>
+</br>
+
+### Warning⚠️
+
+<br>
+<b> This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases. </b>
+</br>
 
